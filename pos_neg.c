@@ -1,3 +1,5 @@
+//to write a program to chek number is positive or not
+
 #include<stdio.h>
 #include<conio.h>
 
