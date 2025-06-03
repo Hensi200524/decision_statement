@@ -1,3 +1,5 @@
+//to write a program to age is grater than 18 to eligible to vote
+
 #include<stdio.h>
 #include<conio.h>
 
