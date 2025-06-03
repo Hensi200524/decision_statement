@@ -1,3 +1,5 @@
+//to write a program to chek the number is odd or even
+
 #include<stdio.h>
 #include<conio.h>
 
