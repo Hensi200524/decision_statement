@@ -1,3 +1,5 @@
+//to write a program to if the marks more than 35 then pass,otherwise fail.
+
 #include<stdio.h>
 #include<conio.h>
 
